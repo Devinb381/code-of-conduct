@@ -1,1 +1,2 @@
-File moved to <https://github.com/twitter/.github/blob/main/code-of-conduct.md>.
+File moved to <https://twitter.com>
+
